@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/heith-mhd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://google.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=JavaScript,React,HTML5,CSS3,Tailwind,Sass,Redux,Valtio,Three.js"<br>
+      <img src="https://skillicons.dev/icons?i=JavaScript,React,HTML5,CSS3,Tailwind,Sass,Redux,Valtio,Three.js" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
 
