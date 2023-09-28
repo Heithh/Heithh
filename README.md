@@ -1,11 +1,8 @@
-![banner](https://raw.githubusercontent.com/Heithh/Heithh/master/assets/132500378/a0df1345-6f4d-4d3b-a7a1-a0a034a89d3a)
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Heith+Mahfoudhi!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A Full-Stack Software Engineer</h3>
 
 <br/>
 
