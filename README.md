@@ -7,13 +7,22 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning **TypeScript & Python**
+  <h3>🌱 Currently Learning</h3>
+  <p>
+    I'm actively exploring the worlds of <strong>TypeScript</strong> and <strong>Python</strong>. Always eager to expand my skill set!
+  </p>
+  
+  <h3>⚡ Fun Fact</h3>
+  <p>
+    My favorite TV show is <strong>Friends</strong>. I've watched it so many times that I can practically recite every line!
+  </p>
 
- ⚡ Fun fact **My favorite TV show is Friends**
- I’m looking to collaborate on any interesting projects! See my stack below but I love to learn new languages
- 
- </div>
+  <h3>🤝 Let's Collaborate</h3>
+  <p>
+    I'm open to collaborating on exciting projects. While I have expertise in my stack (see below), I'm also enthusiastic about learning new languages and technologies.
+  </p>
+</div>
+
  
 <div align="center"> 
   <a href="mailto:heith.mhd@gmail.com">
