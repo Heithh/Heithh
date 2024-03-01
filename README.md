@@ -9,7 +9,7 @@
 <div align="center">
   <h3>🌱 Currently Learning</h3>
   <p>
-    I'm actively exploring the worlds of <strong>TypeScript</strong> and <strong>Python</strong>. Always eager to expand my skill set!
+    I'm actively exploring the worlds of <strong>GraphQL</strong> and <strong>Java</strong>. Always eager to expand my skill set!
   </p>
   
   <h3>⚡ Fun Fact</h3>
